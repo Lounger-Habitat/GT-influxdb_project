@@ -61,3 +61,10 @@ influx config create -n rookie-config -u http://localhost:8086 -t OSZs6x07yAreUH
 
   
 
+2022-8-3更新
+
+- 使用python API将数据导入
+
+  ![](.\Dingtalk_20220803173320.jpg)
+
+​	
